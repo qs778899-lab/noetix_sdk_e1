@@ -1,5 +1,5 @@
-# noetix_sdk_n2
-Noetix robot N2 sdk.
+# noetix_sdk_e1
+Noetix robot E1 sdk.
 
 ### Prebuild environment
 * OS  (Ubuntu 20.04 LTS)  
