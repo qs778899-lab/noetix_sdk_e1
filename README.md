@@ -22,3 +22,14 @@ To build the examples inside this repository:
 
 ### Notice
 For more reference information, please go to [E1 DDS_SDK](https://noetixrobotics.feishu.cn/docx/YOZRd3ba3oetDHx9UWncuql0nzb?from=from_copylink).
+
+
+### Deployment
+
+    程序启动：./lowcontroller
+
+    遥控器状态切换： 
+    （1）Button 9：LIE（趴下）模式。
+    （2）Button 10 + Button 2：STAND（起立）模式。
+    （3）Button 5 + Button 2：policy运行模式。
+
