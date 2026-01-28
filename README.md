@@ -26,10 +26,15 @@ For more reference information, please go to [E1 DDS_SDK](https://noetixrobotics
 
 ### Deployment
 
+    ip: 192.168.55.102(本地电脑是102, robot是101？)； 255.255.255.0
+
     程序启动：./lowcontroller
 
-    遥控器状态切换： 
+    遥控器状态切换： 遥控器上没有button的数字标号?
     （1）Button 9：LIE（趴下）模式。
     （2）Button 10 + Button 2：STAND（起立）模式。
     （3）Button 5 + Button 2：policy运行模式。
 
+一些调试指令：
+ping 192.168.55.101
+ssh noetix@192.168.55.101
